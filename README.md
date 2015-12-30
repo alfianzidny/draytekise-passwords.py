@@ -6,4 +6,4 @@ Turns plaintext passwords into urlencoded base64 passwords for Draytek 2830 logi
 Vigor 2830n 
 
 ## Usage
-    python draytekise-passwords.py inputpasswordlist.txt > output.list
+    python draytekise-passwords.py inputpasswordlist.txt > output.txt
